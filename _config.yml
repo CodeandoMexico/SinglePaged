@@ -14,10 +14,10 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Title: Edit me in _config.yml!"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "Codeando México | #ODD17 Data Showdown"
+keywords:    "Codeando México, open data, civic hacking, civic technology, civic tech, open government, opengov"
+description: "Codeando México | #ODD17 Data Showdown. El hackatón de datos abiertos en México."
+source_link: "https://odd17.codeandomexico.org"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
