@@ -18,8 +18,8 @@ title:       "Codeando México | #ODD17 Data Showdown"
 keywords:    "Codeando México, open data, civic hacking, civic technology, civic tech, open government, opengov"
 description: "Codeando México | #ODD17 Data Showdown. El hackatón de datos abiertos en México."
 source_link: "https://odd17.codeandomexico.org"
-favicon:     #put a path like: "img/favicon.ico"
-touch_icon:  #put a path like: "img/apple-touch-icon.png"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-icon.png"
 google_analytics_key: "UA-92890640-1"
 
 
