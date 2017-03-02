@@ -28,7 +28,7 @@ colors:
   black:     '#111111'
   white:     '#f8f8f8'
   blue:      '#00baff'
-  green:     '#9bcf2f' #not in use by ODD
+  green:     '#64bb31' #not in use by ODD
   purple:    '#b108f5' 
   orange:    '#ff8500'
   turquoise: '#fbd831' #this is actually yellow
