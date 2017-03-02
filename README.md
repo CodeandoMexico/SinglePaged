@@ -1,7 +1,6 @@
 ![alt tag](https://raw.githubusercontent.com/CodeandoMexico/odd17/gh-pages/img/showdown-banner.png)
 
-# \#ODD17 Data Showdown
-
+# \#ODD17 Data Showdown 💻⚡️💻
 El [Open Data Day](http://www.opendataday.org) es una celebración anual de los datos abiertos en todo el mundo. En su séptima edición, organizaciones de todo el mundo crearán eventos locales el sábado 4 de marzo, donde utilizaran datos abiertos en beneficio de sus comunidades.  Es una oportunidad de mostrar los beneficios de los datos abiertos e impulsar la adopción de políticas de datos abiertos en gobiernos, empresas y sociedad civil. 
 
 ## ¿Qué es el \#ODD17 Data Showdown?
