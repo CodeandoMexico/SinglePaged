@@ -53,7 +53,7 @@ pre {
 /* ----- base elements ----- */
 
 img {
-  max-width:100%!important;
+  max-width: 70%!important;
   height:auto;
   vertical-align:middle;
 }
@@ -77,9 +77,9 @@ hr {
   font-size: 17px;
   padding: 0 5%;
 }
-.container ol, .container ul { padding: 0 8%; }
+.container ol, .container ul { padding: 0 0%; }
 .container p:first-of-type {
-    margin-top: 40px;
+    margin-top: -20px;
 }
 
 /* keep embedded videos fluid! */

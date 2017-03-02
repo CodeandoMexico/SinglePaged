@@ -11,7 +11,7 @@ Al ser un evento virtual, ¡te puedes sumar desde cualquier parte!
 
 
 <form action="https://docs.google.com/a/codeandomexico.org/forms/d/e/1FAIpQLSe16EY1G9KHQlplxcg5Njl17lWuf0Tqeq4DeZASgGInXA0l9g/viewform">
-  <input type="submit" value="Regístrate">
+  <input type="submit" value="Regístrate" class="submit">
 </form>
 
 
