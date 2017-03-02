@@ -2,7 +2,7 @@
 title: "Temáticas"
 bg: purple
 color: white
-fa-icon: cloud-upload
+fa-icon: cogs
 ---
 
 # Temáticas

@@ -2,7 +2,7 @@
 title: "Participa"
 bg: orange
 color: white
-fa-icon: toggle-on
+fa-icon: hand-o-down
 ---
 
 # Lanzamiento: 03 de marzo a las 18:00 horas (tiempo de la Ciudad de México)
