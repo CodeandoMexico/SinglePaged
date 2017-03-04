@@ -1,6 +1,6 @@
 # Nombre del proyecto
 
-*Descripción breve del proyecto, en un tweet.*
+*Descripción breve del proyecto, en un tweet. :bird:
 
 ## Acerca del proyecto
 
