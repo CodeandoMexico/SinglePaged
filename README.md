@@ -5,21 +5,15 @@ El [Open Data Day](http://www.opendataday.org) (Día de los Datos Abiertos) es u
 
 ## ¿Qué es el \#ODD17 Data Showdown?
 
-El **#ODD17 Data Showdown** ⚡️ es un evento organizado por [Codeando México](http://codeandomexico.org) para todos aquellos que quieran construir y aprender con datos abiertos. El consistirá en un hackatón para desarrollar herramientas digitales que aprovechen el uso de datos abiertos y una transmisión en vivo con talleres, charlas y enlaces en vivo con eventos del Día de Datos Abiertos alrededor del país y en América Latina. Todos los resultados son abiertos para que todos podamos utilizarlos, compartirlos y mejorarlos.
-
-Todos los resultados son abiertos para que todos podamos utilizarlos, compartirlos y mejorarlos.
-
-#### **¡El evento será completamente en línea!**
+El hackatón **#ODD17 Data Showdown** ⚡️ es es un evento para desarrollar herramientas digitales que aprovechen el uso de datos abiertos. Todos los resultados son abiertos para que todos podamos utilizarlos, compartirlos y mejorarlos. **¡El hackatón es completamente en línea!**
 
 ## ¿Cómo participar?
 
-El **#ODD17 Data Showdown** ⚡️ será un maratón virtual que reunirá a personas en todo el país interesadas en construir o aprender sobre datos abiertos, donde se lanzará una convocatoria para desarrollar herramientas y visualizaciones y se llevarán una serie de talleres y charlas sobre la importancia de los datos abiertos. 
+1. *Publica.* Sube tu proyecto a un repositorio de GitHub.
+2. *Documenta.* Llena el README.md de tu repositorio utilizando [esta plantilla](https://github.com/CodeandoMexico/odd17/blob/gh-pages/README-TEMPLATE.md).
+3. *Envia.* Edita directamente el archivo [odd17/hackaton/PROYECTOS.md](https://github.com/CodeandoMexico/odd17/blob/gh-pages/hackaton/PROYECTOS.md) (puedes editarlo directamente) y agrega el título de tu proyecto con un link a tu repositorio.
 
-El lanzamiento será el próximo **viernes 03 de marzo, a las 18:00 horas (tiempo de la Ciudad de México)**, cuando se publicará la dinámica del hackatón.
-
-Al ser un evento virtual, ¡te puedes sumar desde cualquier parte!
-
-**Regístrate [aquí](https://docs.google.com/a/codeandomexico.org/forms/d/e/1FAIpQLSe16EY1G9KHQlplxcg5Njl17lWuf0Tqeq4DeZASgGInXA0l9g/viewform)** para recibir actualizaciones del evento.
+¡La fecha límite para recibir proyectos es el *sábado 04 de marzo a las 11:59pm* (hora de la Ciudad de México)!
 
 
 ## Temáticas
@@ -40,8 +34,6 @@ También podrás abordar cualquiera de las temáticas propuestas en la agenda of
 * Datos abiertos para derechos humanos
 
 ## Únete
-
-Las bases y dinámica de participación para el **#ODD17 Data Showdown** ⚡️ se liberarán el próximo viernes 03 de marzo, a las 18:00. Mientras tanto, 
 
 * Súmate a la conversación en Facebook y Twitter con los hashtags #ODD17 y #DataShowdown.
 * Entra al [Slack de Codeando México](http://slack.codeandomexico.org) y entra al canal de #odd17.
