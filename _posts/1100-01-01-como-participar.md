@@ -13,6 +13,8 @@ fa-icon: bolt
   * API
   * Aplicación movil o web
 
-3. **Manda tu proyecto por medio de un pull-request a: [http://github.com/CodeandoMexico/odd17/hackaton](http://github.com/CodeandoMexico/odd17/hackaton).**
+3. **Manda tu proyecto por medio de un pull-request a: `[http://github.com/CodeandoMexico/odd17/hackaton](http://github.com/CodeandoMexico/odd17/hackaton)`.**
+
+
 
 **¡La fecha límite para recibir proyectos es el sábado 04 de marzo a las 11:59pm!**
