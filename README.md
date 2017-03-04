@@ -15,6 +15,45 @@ El hackatón **#ODD17 Data Showdown** ⚡️ es es un evento para desarrollar he
 
 ¡La fecha límite para recibir proyectos es el **sábado 04 de marzo a las 11:59pm** (hora de la Ciudad de México)!
 
+## Recursos
+
+### Nacionales
+* [datos.gob.mx](https://datos.gob.mx/)
+* [Datos Abiertos UNAM](https://datosabiertos.unam.mx/)
+* [Datos SCT](https://www.datossct.gob.mx/)
+* [Datos IMSS](http://datos.imss.gob.mx/)
+* [Datos del Banco Mundial](http://datos.bancomundial.org/)
+* [datamx](http://datamx.io)
+* [Open Data México](https://github.com/edublancas/open-data-mexico)
+
+### Locales
+* [LabCDMX](http://datos.labcd.mx/)
+* [Centro de Integración Ciudadana](https://data.cic.mx/)
+* [Datos Jalisco](https://datos.jalisco.gob.mx/)
+* [Datos San Pedro Garza García](http://datosabiertos.sanpedro.gob.mx/)
+
+
+### Justicia, paz e instituciones sólidas
+
+* [Incidencia Delictiva 2007 - 2011](https://datos.gob.mx/busca/dataset/incidencia-delictiva-2007-2011 )
+* [Contrataciones abiertas del Nuevo Aeropuerto de la Ciudad de México](https://datos.gob.mx/busca/organization/gacm )
+* [Categoría "Seguridad y Justicia"](https://datos.gob.mx/busca/dataset?theme=Seguridad+y+Justicia)
+
+
+### Igualdad de género
+
+* [Búsqueda de "género"](https://datos.gob.mx/busca/dataset?q=genero&sort=score+desc%2C+metadata_modified+desc) 
+* [Estadísticas de Mujeres](https://datos.gob.mx/busca/dataset/estadisticas-de-mujeres)
+* [Salud sexual y reproductiva](https://datos.gob.mx/busca/dataset/salud-sexual-y-reproductiva)
+
+
+### Ciudades y comunidades sostenibles
+
+* [Grupo de datos de Desarrollo sostenible](https://datos.gob.mx/busca/dataset?theme=Desarrollo+Sostenible)
+* [Calidad del aire](https://datos.gob.mx/busca/dataset/calidad-del-aire)
+* [Estaciones de Servicio (Gasolineras) y Precios Comerciales de Gasolina y Diesel](https://datos.gob.mx/busca/dataset/estaciones-de-servicio-gasolineras-y-precios-comerciales-de-gasolia-y-diesel)
+* [Directorio Estadístico Nacional de Unidades Económicas (DENUE)](https://datos.gob.mx/busca/dataset/directorio-estadistico-nacional-de-unidades-economicas-denue-por-entidad-federativa)
+
 
 ## Temáticas
 
