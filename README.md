@@ -9,6 +9,8 @@ El hackatón **#ODD17 Data Showdown** ⚡️ es es un evento para desarrollar he
 
 ## ¿Cómo participar?
 
+**¡Todavía puedes participar!**
+
 1. **Publica.** Sube tu proyecto a un repositorio de GitHub.
 2. **Documenta.** Llena el README.md de tu repositorio utilizando [esta plantilla](https://github.com/CodeandoMexico/odd17/blob/gh-pages/README-TEMPLATE.md).
 3. **Envia.** Edita directamente el archivo [odd17/hackaton/PROYECTOS.md](https://github.com/CodeandoMexico/odd17/blob/gh-pages/hackaton/PROYECTOS.md) (puedes editarlo directamente) y agrega el título de tu proyecto con un link a tu repositorio.
