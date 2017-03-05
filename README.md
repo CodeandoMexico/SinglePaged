@@ -15,7 +15,9 @@ El hackatón **#ODD17 Data Showdown** ⚡️ es es un evento para desarrollar he
 2. **Forkea.** Forkea el documento [odd17/hackaton/PROYECTOS.md](https://github.com/CodeandoMexico/odd17/blob/gh-pages/hackaton/PROYECTOS.md) y agrega el nombre de tu proyecto a la lista con un link a su repositorio.
 3. **Envia.** Envia tu pull-request al branch `gh-pages`.
 
-¡La fecha límite para recibir proyectos es el **sábado 04 de marzo a las 11:59pm** (hora de la Ciudad de México)!
+¡La fecha límite para recibir proyectos es el **sábado 04 de marzo a las 11:59pm** (hora de la Ciudad de México)! 
+
+Los resultados del hackatón se anunciarán el lunes 06/marzo.
 
 ## Recursos
 
